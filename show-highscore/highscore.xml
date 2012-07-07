@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XML>
+
+   <highscores>
+       
+	   <highscore>
+		   <playername>Alf</playername>
+		   <playerscore>78978678</playerscore>
+	   </highscore>
+	   
+	   <highscore>
+           <playername>Alf</playername>
+           <playerscore>7385</playerscore>	   
+	   </highscore>
+	   
+	   <highscore>
+           <playername>Alf</playername>
+           <playerscore>786</playerscore>	   
+	   </highscore>	
+	   <highscore>
+	   
+           <playername>Alf</playername>
+           <playerscore>7867</playerscore>	   
+	   </highscore>	   	  
+	   
+	   <highscore>
+           <playername>Alf</playername>
+           <playerscore>99999</playerscore>	   
+	   </highscore>	
+	   
+	   <highscore>
+           <playername>Alf</playername>
+           <playerscore>7867867</playerscore>	   
+	   </highscore>	
+	   
+	   <highscore>
+           <playername>Alf</playername>
+           <playerscore>753756</playerscore>	   
+	   </highscore>	
+	   
+	   <highscore>
+           <playername>Alf</playername>
+           <playerscore>75</playerscore>	   
+	   </highscore>	
+	   
+	   <highscore>
+           <playername>Alf</playername>
+           <playerscore>7</playerscore>	   
+	   </highscore>	
+	   
+	   <highscore>
+           <playername>Alf</playername>
+           <playerscore>6</playerscore>	   
+	   </highscore>		    
+   
+   </highscores>
+
+</XML>
